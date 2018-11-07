@@ -40,6 +40,7 @@ namespace dotnet_new_template_react_ts
             {
                 app.UseExceptionHandler("/Error");
                 app.UseHsts();
+                app.UseHttpsRedirection();
             }
 
             app.UseHttpsRedirection();
