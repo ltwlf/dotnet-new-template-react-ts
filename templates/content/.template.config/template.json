@@ -1,0 +1,13 @@
+{
+    "$schema": "http://json.schemastore.org/template",
+    "author": "Christian Glessner",
+    "classifications": [ "Web", "MVC","SPA" ],
+    "name": "ASP.NET Core with React.js",
+    "identity": "Ltwlf.AspNetCore.ReactTypeScript",       
+    "shortName": "react-ts",                 
+    "tags": {
+        "language": "C#"                       
+    },
+    "sourceName": "dotnet_new_template_react_ts",      
+    "preferNameDirectory" : true
+}

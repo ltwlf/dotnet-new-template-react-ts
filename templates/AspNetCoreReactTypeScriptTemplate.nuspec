@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Ltwlf.AspNetCoreTS</id>
+    <version>0.0.1</version>
+    <description>
+      Dotnet new template for an ASP.NET Core 2.1 SPA with React and TypeScript
+    </description>
+    <authors>Christian Glessner</authors>
+    <projectUrl>https://github.com/ltwlf/dotnet-new-template-react-ts</projectUrl>
+    <tags>ASPNetCore Template dotnet React TypeScript SPA</tags>
+    <iconUrl>https://raw.githubusercontent.com/ltwlf/dotnet-new-templates-bot/master/Assets/icon.png</iconUrl>
+    <packageTypes>
+      <packageType name="Template" />
+    </packageTypes>
+  </metadata>
+</package>
