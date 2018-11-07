@@ -9,7 +9,6 @@
     <authors>Christian Glessner</authors>
     <projectUrl>https://github.com/ltwlf/dotnet-new-template-react-ts</projectUrl>
     <tags>ASPNetCore Template dotnet React TypeScript SPA</tags>
-    <iconUrl>https://raw.githubusercontent.com/ltwlf/dotnet-new-templates-bot/master/Assets/icon.png</iconUrl>
     <packageTypes>
       <packageType name="Template" />
     </packageTypes>
