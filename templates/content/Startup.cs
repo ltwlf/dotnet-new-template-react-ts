@@ -43,7 +43,6 @@ namespace dotnet_new_template_react_ts
                 app.UseHttpsRedirection();
             }
 
-            app.UseHttpsRedirection();
             app.UseStaticFiles();
             app.UseSpaStaticFiles();
 
